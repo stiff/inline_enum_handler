@@ -1,6 +1,12 @@
 [package]
 name = "inline_enum_handler"
 version = "0.1.0"
+description = "Match enum variants to #[handler] functions without boilerplate"
+homepage = "https://github.com/stiff/inline_enum_handler"
+repository = "https://github.com/stiff/inline_enum_handler"
+keywords = ["macro", "no-std", "codegen", "enum", "actor"]
+categories = ["no-std", "rust-patterns"]
+license = "MIT OR Apache-2.0"
 edition = "2024"
 
 [lib]
